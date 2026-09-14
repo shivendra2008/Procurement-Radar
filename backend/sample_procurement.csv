@@ -1,0 +1,267 @@
+tender_id,category,region,agency,estimated_value,bid_deadline,award_date,vendor_id,vendor_name,vendor_address,bid_amount,is_winner
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,,V006,Crest Logistics,"105 Market Street, City 1",130559.34,False
+T0046,IT Hardware,North Zone,IT Dept,190836.66,2025-02-15,,V901,Apex Infra Solutions,42 Industrial Park Road,243856.69,False
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,,V015,Evergreen Services,"114 Market Street, City 2",182858.97,False
+T0042,IT Hardware,East Zone,IT Dept,202533.34,2026-01-05,,V003,Horizon Traders,"102 Market Street, City 2",212945.47,False
+T0054,Specialized Medical Devices,South Zone,Health Dept,305967.9,2025-03-01,,V802,BioCore Instruments,77 Innovation Lane,293640.63,False
+T0015,IT Hardware,West Zone,Health Dept,201501.6,2025-05-07,2025-05-14,V007,Falcon Works,"106 Market Street, City 2",175077.6,True
+T0023,Office Supplies,South Zone,Health Dept,53495.36,2025-07-18,,V007,Falcon Works,"106 Market Street, City 2",60867.82,False
+T0005,Sanitation Services,West Zone,Municipal Corp,133897.73,2025-02-06,,V017,Vertex Solutions,"116 Market Street, City 0",136327.13,False
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,,V007,Falcon Works,"106 Market Street, City 2",363049.34,False
+T0023,Office Supplies,South Zone,Health Dept,53495.36,2025-07-18,,V015,Evergreen Services,"114 Market Street, City 2",60628.2,False
+T0055,Specialized Medical Devices,East Zone,Health Dept,331027.74,2025-03-21,,V802,BioCore Instruments,77 Innovation Lane,327993.99,False
+T0033,IT Hardware,North Zone,Health Dept,164976.7,2025-10-16,,V008,Riverbend Contractors,"107 Market Street, City 3",162420.85,False
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,,V002,Metro Constructions,"101 Market Street, City 1",234813.53,False
+T0036,Medical Equipment,South Zone,Municipal Corp,133865.65,2025-11-12,2025-11-24,V013,Pioneer Infra,"112 Market Street, City 0",126077.97,True
+T0043,IT Hardware,South Zone,Municipal Corp,211622.4,2026-01-14,2026-02-01,V005,Bluewave Systems,"104 Market Street, City 0",193221.54,True
+T0050,IT Hardware,North Zone,IT Dept,190972.45,2025-04-12,,V902,Zenith Infra Works,42 Industrial Park Road,256568.5,False
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,,V009,Cedar Point Inc,"108 Market Street, City 0",249218.31,False
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,,V001,Alpine Builders,"100 Market Street, City 0",249828.69,False
+T0041,Road Construction,West Zone,Public Works Dept,406524.02,2025-12-27,,V005,Bluewave Systems,"104 Market Street, City 0",417742.89,False
+T0017,Sanitation Services,East Zone,Health Dept,144550.08,2025-05-25,,V008,Riverbend Contractors,"107 Market Street, City 3",137949.7,False
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,,V017,Vertex Solutions,"116 Market Street, City 0",307477.06,False
+T0044,Sanitation Services,South Zone,Municipal Corp,124817.45,2026-01-23,,V012,Union Traders,"111 Market Street, City 3",130048.97,False
+T0049,IT Hardware,North Zone,IT Dept,187764.7,2025-03-29,2025-04-01,V902,Zenith Infra Works,42 Industrial Park Road,239104.92,True
+T0011,Office Supplies,North Zone,Health Dept,45707.81,2025-04-01,,V011,Silverline Corp,"110 Market Street, City 2",42083.09,False
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,,V018,Granite Infra,"117 Market Street, City 1",172316.79,False
+T0006,Road Construction,North Zone,Public Works Dept,428922.71,2025-02-15,,V006,Crest Logistics,"105 Market Street, City 1",505579.8,False
+T0012,IT Hardware,West Zone,Health Dept,174800.83,2025-04-10,,V017,Vertex Solutions,"116 Market Street, City 0",171805.62,False
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,,V004,Summit Supplies,"103 Market Street, City 3",434655.88,False
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,,V004,Summit Supplies,"103 Market Street, City 3",492996.99,False
+T0044,Sanitation Services,South Zone,Municipal Corp,124817.45,2026-01-23,,V017,Vertex Solutions,"116 Market Street, City 0",125588.32,False
+T0033,IT Hardware,North Zone,Health Dept,164976.7,2025-10-16,,V005,Bluewave Systems,"104 Market Street, City 0",162865.91,False
+T0013,Medical Equipment,East Zone,Public Works Dept,167501.06,2025-04-19,2025-04-30,V015,Evergreen Services,"114 Market Street, City 2",146542.83,True
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,,V011,Silverline Corp,"110 Market Street, City 2",41656.67,False
+T0008,Office Supplies,South Zone,Health Dept,44430.29,2025-03-05,2025-03-13,V018,Granite Infra,"117 Market Street, City 1",38615.04,True
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,,V001,Alpine Builders,"100 Market Street, City 0",360553.68,False
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,,V013,Pioneer Infra,"112 Market Street, City 0",480679.59,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,,V008,Riverbend Contractors,"107 Market Street, City 3",107090.17,False
+T0020,IT Hardware,East Zone,Sanitation Board,153086.07,2025-06-21,,V005,Bluewave Systems,"104 Market Street, City 0",151729.22,False
+T0049,IT Hardware,North Zone,IT Dept,187764.7,2025-03-29,,V901,Apex Infra Solutions,42 Industrial Park Road,239903.12,False
+T0023,Office Supplies,South Zone,Health Dept,53495.36,2025-07-18,,V011,Silverline Corp,"110 Market Street, City 2",59370.94,False
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,,V004,Summit Supplies,"103 Market Street, City 3",125185.58,False
+T0019,Office Supplies,East Zone,Public Works Dept,47661.18,2025-06-12,,V012,Union Traders,"111 Market Street, City 3",51325.09,False
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,,V006,Crest Logistics,"105 Market Street, City 1",41838.26,False
+T0003,IT Hardware,North Zone,Sanitation Board,176561.88,2025-01-19,2025-02-09,V008,Riverbend Contractors,"107 Market Street, City 3",182528.51,True
+T0035,IT Hardware,North Zone,Municipal Corp,218650.54,2025-11-03,,V016,Coastal Supplies,"115 Market Street, City 3",187808.5,False
+T0020,IT Hardware,East Zone,Sanitation Board,153086.07,2025-06-21,,V011,Silverline Corp,"110 Market Street, City 2",167568.96,False
+T0048,IT Hardware,North Zone,IT Dept,208983.4,2025-03-15,,V903,Prime Infra Traders,42 Industrial Park Road,277460.92,False
+T0020,IT Hardware,East Zone,Sanitation Board,153086.07,2025-06-21,2025-07-03,V003,Horizon Traders,"102 Market Street, City 2",143356.72,True
+T0017,Sanitation Services,East Zone,Health Dept,144550.08,2025-05-25,,V009,Cedar Point Inc,"108 Market Street, City 0",158732.65,False
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,,V017,Vertex Solutions,"116 Market Street, City 0",120374.97,False
+T0019,Office Supplies,East Zone,Public Works Dept,47661.18,2025-06-12,,V017,Vertex Solutions,"116 Market Street, City 0",45904.89,False
+T0010,Medical Equipment,East Zone,Municipal Corp,135951.57,2025-03-23,,V018,Granite Infra,"117 Market Street, City 1",141958.63,False
+T0017,Sanitation Services,East Zone,Health Dept,144550.08,2025-05-25,,V011,Silverline Corp,"110 Market Street, City 2",170495.37,False
+T0030,Medical Equipment,West Zone,Municipal Corp,241674.43,2025-09-19,,V008,Riverbend Contractors,"107 Market Street, City 3",239329.77,False
+T0059,Specialized Medical Devices,South Zone,Health Dept,311524.2,2025-06-09,,V801,MedTech Precision Devices,9 Science Park Drive,321641.88,False
+T0020,IT Hardware,East Zone,Sanitation Board,153086.07,2025-06-21,,V009,Cedar Point Inc,"108 Market Street, City 0",169078.87,False
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,,V013,Pioneer Infra,"112 Market Street, City 0",68731.58,False
+T0031,Medical Equipment,North Zone,Municipal Corp,242628.15,2025-09-28,,V017,Vertex Solutions,"116 Market Street, City 0",277655.57,False
+T0048,IT Hardware,North Zone,IT Dept,208983.4,2025-03-15,,V902,Zenith Infra Works,42 Industrial Park Road,278481.66,False
+T0052,IT Hardware,North Zone,IT Dept,197618.75,2025-05-10,,V903,Prime Infra Traders,42 Industrial Park Road,253413.25,False
+T0037,IT Hardware,West Zone,IT Dept,219993.55,2025-11-21,2025-12-03,V001,Alpine Builders,"100 Market Street, City 0",191976.06,True
+T0027,Road Construction,East Zone,Public Works Dept,459162.52,2025-08-23,,V014,Delta Hardware,"113 Market Street, City 1",532775.47,False
+T0002,IT Hardware,North Zone,Health Dept,194497.91,2025-01-10,2025-01-22,V013,Pioneer Infra,"112 Market Street, City 0",175763.07,True
+T0050,IT Hardware,North Zone,IT Dept,190972.45,2025-04-12,,V901,Apex Infra Solutions,42 Industrial Park Road,255832.19,False
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,,V003,Horizon Traders,"102 Market Street, City 2",137381.02,False
+T0041,Road Construction,West Zone,Public Works Dept,406524.02,2025-12-27,2026-01-13,V012,Union Traders,"111 Market Street, City 3",381777.76,True
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,,V017,Vertex Solutions,"116 Market Street, City 0",397663.86,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,,V004,Summit Supplies,"103 Market Street, City 3",100213.24,False
+T0002,IT Hardware,North Zone,Health Dept,194497.91,2025-01-10,,V009,Cedar Point Inc,"108 Market Street, City 0",188126.03,False
+T0036,Medical Equipment,South Zone,Municipal Corp,133865.65,2025-11-12,,V002,Metro Constructions,"101 Market Street, City 1",128695.11,False
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,,V011,Silverline Corp,"110 Market Street, City 2",94178.33,False
+T0012,IT Hardware,West Zone,Health Dept,174800.83,2025-04-10,,V014,Delta Hardware,"113 Market Street, City 1",175520.68,False
+T0041,Road Construction,West Zone,Public Works Dept,406524.02,2025-12-27,,V018,Granite Infra,"117 Market Street, City 1",443614.73,False
+T0022,Road Construction,North Zone,IT Dept,417965.06,2025-07-09,,V013,Pioneer Infra,"112 Market Street, City 0",483527.36,False
+T0032,Sanitation Services,West Zone,Health Dept,156581.37,2025-10-07,,V005,Bluewave Systems,"104 Market Street, City 0",150448.03,False
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,,V018,Granite Infra,"117 Market Street, City 1",65747.94,False
+T0060,Specialized Medical Devices,East Zone,Health Dept,331513.12,2025-06-29,,V802,BioCore Instruments,77 Innovation Lane,333876.8,False
+T0032,Sanitation Services,West Zone,Health Dept,156581.37,2025-10-07,,V008,Riverbend Contractors,"107 Market Street, City 3",155823.19,False
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,,V002,Metro Constructions,"101 Market Street, City 1",119823.95,False
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,,V003,Horizon Traders,"102 Market Street, City 2",114317.64,False
+T0056,Specialized Medical Devices,South Zone,Health Dept,322745.18,2025-04-10,2025-04-20,V802,BioCore Instruments,77 Innovation Lane,335143.21,True
+T0021,Office Supplies,North Zone,Public Works Dept,49125.48,2025-06-30,,V012,Union Traders,"111 Market Street, City 3",47668.17,False
+T0003,IT Hardware,North Zone,Sanitation Board,176561.88,2025-01-19,,V017,Vertex Solutions,"116 Market Street, City 0",199186.72,False
+T0051,IT Hardware,North Zone,IT Dept,214738.45,2025-04-26,2025-04-29,V901,Apex Infra Solutions,42 Industrial Park Road,282184.52,True
+T0002,IT Hardware,North Zone,Health Dept,194497.91,2025-01-10,,V015,Evergreen Services,"114 Market Street, City 2",208337.96,False
+T0005,Sanitation Services,West Zone,Municipal Corp,133897.73,2025-02-06,,V009,Cedar Point Inc,"108 Market Street, City 0",153484.5,False
+T0024,Office Supplies,South Zone,Health Dept,29656.49,2025-07-27,,V012,Union Traders,"111 Market Street, City 3",27934.6,False
+T0055,Specialized Medical Devices,West Zone,Health Dept,331027.74,2025-03-21,2025-04-06,V801,MedTech Precision Devices,9 Science Park Drive,328406.77,True
+T0057,Specialized Medical Devices,North Zone,Health Dept,310585.85,2025-04-30,2025-05-11,V801,MedTech Precision Devices,9 Science Park Drive,293543.73,True
+T0043,IT Hardware,South Zone,Municipal Corp,211622.4,2026-01-14,,V011,Silverline Corp,"110 Market Street, City 2",215957.91,False
+T0004,Medical Equipment,North Zone,Health Dept,110590.18,2025-01-28,,V011,Silverline Corp,"110 Market Street, City 2",128412.91,False
+T0009,IT Hardware,North Zone,Public Works Dept,161558.89,2025-03-14,,V017,Vertex Solutions,"116 Market Street, City 0",148616.96,False
+T0010,Medical Equipment,East Zone,Municipal Corp,135951.57,2025-03-23,,V017,Vertex Solutions,"116 Market Street, City 0",140409.98,False
+T0046,IT Hardware,North Zone,IT Dept,190836.66,2025-02-15,2025-02-18,V902,Zenith Infra Works,42 Industrial Park Road,244210.18,True
+T0048,IT Hardware,North Zone,IT Dept,208983.4,2025-03-15,2025-03-18,V901,Apex Infra Solutions,42 Industrial Park Road,279833.36,True
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,,V008,Riverbend Contractors,"107 Market Street, City 3",95341.18,False
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,,V002,Metro Constructions,"101 Market Street, City 1",42878.74,False
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,,V005,Bluewave Systems,"104 Market Street, City 0",373543.79,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,,V005,Bluewave Systems,"104 Market Street, City 0",93481.62,False
+T0035,IT Hardware,North Zone,Municipal Corp,218650.54,2025-11-03,2025-11-18,V013,Pioneer Infra,"112 Market Street, City 0",187798.71,True
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,,V004,Summit Supplies,"103 Market Street, City 3",102046.48,False
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,,V003,Horizon Traders,"102 Market Street, City 2",284072.01,False
+T0017,Sanitation Services,East Zone,Health Dept,144550.08,2025-05-25,2025-06-08,V013,Pioneer Infra,"112 Market Street, City 0",126327.98,True
+T0032,Sanitation Services,West Zone,Health Dept,156581.37,2025-10-07,2025-10-22,V011,Silverline Corp,"110 Market Street, City 2",145210.88,True
+T0031,Medical Equipment,North Zone,Municipal Corp,242628.15,2025-09-28,2025-10-14,V011,Silverline Corp,"110 Market Street, City 2",240401.9,True
+T0004,Medical Equipment,North Zone,Health Dept,110590.18,2025-01-28,,V013,Pioneer Infra,"112 Market Street, City 0",125984.48,False
+T0021,Office Supplies,North Zone,Public Works Dept,49125.48,2025-06-30,,V005,Bluewave Systems,"104 Market Street, City 0",48724.1,False
+T0009,IT Hardware,North Zone,Public Works Dept,161558.89,2025-03-14,,V011,Silverline Corp,"110 Market Street, City 2",166077.32,False
+T0013,Medical Equipment,East Zone,Public Works Dept,167501.06,2025-04-19,,V007,Falcon Works,"106 Market Street, City 2",167947.83,False
+T0025,Sanitation Services,East Zone,Public Works Dept,83825.72,2025-08-05,,V009,Cedar Point Inc,"108 Market Street, City 0",83272.98,False
+T0042,IT Hardware,East Zone,IT Dept,202533.34,2026-01-05,,V009,Cedar Point Inc,"108 Market Street, City 0",197483.47,False
+T0008,Office Supplies,South Zone,Health Dept,44430.29,2025-03-05,,V010,Northgate Equipments,"109 Market Street, City 1",42274.51,False
+T0023,Office Supplies,South Zone,Health Dept,53495.36,2025-07-18,,V001,Alpine Builders,"100 Market Street, City 0",59783.59,False
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,,V018,Granite Infra,"117 Market Street, City 1",213142.42,False
+T0033,IT Hardware,North Zone,Health Dept,164976.7,2025-10-16,2025-10-29,V012,Union Traders,"111 Market Street, City 3",151490.74,True
+T0052,IT Hardware,North Zone,IT Dept,197618.75,2025-05-10,,V901,Apex Infra Solutions,42 Industrial Park Road,251251.42,False
+T0011,Office Supplies,North Zone,Health Dept,45707.81,2025-04-01,2025-04-12,V003,Horizon Traders,"102 Market Street, City 2",40847.37,True
+T0047,IT Hardware,North Zone,IT Dept,201434.56,2025-03-01,,V901,Apex Infra Solutions,42 Industrial Park Road,264890.5,False
+T0040,Road Construction,East Zone,Sanitation Board,448456.4,2025-12-18,,V014,Delta Hardware,"113 Market Street, City 1",506917.16,False
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,,V006,Crest Logistics,"105 Market Street, City 1",57832.7,False
+T0038,IT Hardware,North Zone,Public Works Dept,158835.47,2025-11-30,,V001,Alpine Builders,"100 Market Street, City 0",184687.5,False
+T0025,Sanitation Services,East Zone,Public Works Dept,83825.72,2025-08-05,,V006,Crest Logistics,"105 Market Street, City 1",91405.23,False
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,,V007,Falcon Works,"106 Market Street, City 2",116321.27,False
+T0020,IT Hardware,East Zone,Sanitation Board,153086.07,2025-06-21,,V002,Metro Constructions,"101 Market Street, City 1",162309.11,False
+T0024,Office Supplies,South Zone,Health Dept,29656.49,2025-07-27,,V011,Silverline Corp,"110 Market Street, City 2",31858.22,False
+T0051,IT Hardware,North Zone,IT Dept,214738.45,2025-04-26,,V903,Prime Infra Traders,42 Industrial Park Road,279925.13,False
+T0052,IT Hardware,North Zone,IT Dept,197618.75,2025-05-10,2025-05-13,V902,Zenith Infra Works,42 Industrial Park Road,255762.6,True
+T0031,Medical Equipment,North Zone,Municipal Corp,242628.15,2025-09-28,,V015,Evergreen Services,"114 Market Street, City 2",271489.29,False
+T0027,Road Construction,East Zone,Public Works Dept,459162.52,2025-08-23,,V010,Northgate Equipments,"109 Market Street, City 1",453995.7,False
+T0032,Sanitation Services,West Zone,Health Dept,156581.37,2025-10-07,,V009,Cedar Point Inc,"108 Market Street, City 0",145456.44,False
+T0045,IT Hardware,North Zone,IT Dept,201236.88,2025-02-01,2025-02-04,V901,Apex Infra Solutions,42 Industrial Park Road,262851.29,True
+T0022,Road Construction,North Zone,IT Dept,417965.06,2025-07-09,,V008,Riverbend Contractors,"107 Market Street, City 3",411321.31,False
+T0042,IT Hardware,East Zone,IT Dept,202533.34,2026-01-05,,V004,Summit Supplies,"103 Market Street, City 3",229027.62,False
+T0011,Office Supplies,North Zone,Health Dept,45707.81,2025-04-01,,V002,Metro Constructions,"101 Market Street, City 1",48942.21,False
+T0030,Medical Equipment,West Zone,Municipal Corp,241674.43,2025-09-19,2025-10-08,V013,Pioneer Infra,"112 Market Street, City 0",209428.31,True
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,,V007,Falcon Works,"106 Market Street, City 2",201511.47,False
+T0005,Sanitation Services,West Zone,Municipal Corp,133897.73,2025-02-06,,V005,Bluewave Systems,"104 Market Street, City 0",139643.73,False
+T0061,Specialized Medical Devices,West Zone,Health Dept,333065.25,2025-07-19,,V802,BioCore Instruments,77 Innovation Lane,348659.55,False
+T0024,Office Supplies,South Zone,Health Dept,29656.49,2025-07-27,2025-08-08,V010,Northgate Equipments,"109 Market Street, City 1",25887.41,True
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,,V001,Alpine Builders,"100 Market Street, City 0",61937.69,False
+T0022,Road Construction,North Zone,IT Dept,417965.06,2025-07-09,,V004,Summit Supplies,"103 Market Street, City 3",440877.19,False
+T0027,Road Construction,East Zone,Public Works Dept,459162.52,2025-08-23,,V006,Crest Logistics,"105 Market Street, City 1",492917.82,False
+T0044,Sanitation Services,South Zone,Municipal Corp,124817.45,2026-01-23,,V016,Coastal Supplies,"115 Market Street, City 3",134589.38,False
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,2025-05-11,V008,Riverbend Contractors,"107 Market Street, City 3",267228.99,True
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,,V009,Cedar Point Inc,"108 Market Street, City 0",114494.59,False
+T0030,Medical Equipment,West Zone,Municipal Corp,241674.43,2025-09-19,,V015,Evergreen Services,"114 Market Street, City 2",246731.73,False
+T0040,Road Construction,East Zone,Sanitation Board,448456.4,2025-12-18,,V002,Metro Constructions,"101 Market Street, City 1",456065.39,False
+T0041,Road Construction,West Zone,Public Works Dept,406524.02,2025-12-27,,V015,Evergreen Services,"114 Market Street, City 2",453967.71,False
+T0050,IT Hardware,North Zone,IT Dept,190972.45,2025-04-12,2025-04-15,V903,Prime Infra Traders,42 Industrial Park Road,253649.3,True
+T0046,IT Hardware,North Zone,IT Dept,190836.66,2025-02-15,,V903,Prime Infra Traders,42 Industrial Park Road,243851.28,False
+T0024,Office Supplies,South Zone,Health Dept,29656.49,2025-07-27,,V008,Riverbend Contractors,"107 Market Street, City 3",32776.29,False
+T0037,IT Hardware,West Zone,IT Dept,219993.55,2025-11-21,,V016,Coastal Supplies,"115 Market Street, City 3",203272.57,False
+T0056,Specialized Medical Devices,South Zone,Health Dept,322745.18,2025-04-10,,V801,MedTech Precision Devices,9 Science Park Drive,328406.43,False
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,2025-03-14,V005,Bluewave Systems,"104 Market Street, City 0",91367.49,True
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,,V004,Summit Supplies,"103 Market Street, City 3",38356.25,False
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,,V007,Falcon Works,"106 Market Street, City 2",495670.58,False
+T0027,Road Construction,East Zone,Public Works Dept,459162.52,2025-08-23,2025-09-07,V017,Vertex Solutions,"116 Market Street, City 0",409575.26,True
+T0009,IT Hardware,North Zone,Public Works Dept,161558.89,2025-03-14,,V005,Bluewave Systems,"104 Market Street, City 0",159884.41,False
+T0032,Sanitation Services,West Zone,Health Dept,156581.37,2025-10-07,,V015,Evergreen Services,"114 Market Street, City 2",158134.19,False
+T0012,IT Hardware,West Zone,Health Dept,174800.83,2025-04-10,,V004,Summit Supplies,"103 Market Street, City 3",187423.25,False
+T0009,IT Hardware,North Zone,Public Works Dept,161558.89,2025-03-14,2025-03-29,V009,Cedar Point Inc,"108 Market Street, City 0",148049.31,True
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,,V006,Crest Logistics,"105 Market Street, City 1",414663.0,False
+T0010,Medical Equipment,East Zone,Municipal Corp,135951.57,2025-03-23,,V004,Summit Supplies,"103 Market Street, City 3",147315.43,False
+T0041,Road Construction,West Zone,Public Works Dept,406524.02,2025-12-27,,V003,Horizon Traders,"102 Market Street, City 2",403979.01,False
+T0013,Medical Equipment,East Zone,Public Works Dept,167501.06,2025-04-19,,V018,Granite Infra,"117 Market Street, City 1",190713.42,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,,V011,Silverline Corp,"110 Market Street, City 2",88179.52,False
+T0012,IT Hardware,West Zone,Health Dept,174800.83,2025-04-10,,V007,Falcon Works,"106 Market Street, City 2",190636.92,False
+T0005,Sanitation Services,West Zone,Municipal Corp,133897.73,2025-02-06,2025-02-24,V004,Summit Supplies,"103 Market Street, City 3",123504.03,True
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,,V007,Falcon Works,"106 Market Street, City 2",231256.7,False
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,2025-09-13,V016,Coastal Supplies,"115 Market Street, City 3",391389.82,True
+T0023,Office Supplies,South Zone,Health Dept,53495.36,2025-07-18,,V006,Crest Logistics,"105 Market Street, City 1",50181.1,False
+T0035,IT Hardware,North Zone,Municipal Corp,218650.54,2025-11-03,,V015,Evergreen Services,"114 Market Street, City 2",226576.48,False
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,,V010,Northgate Equipments,"109 Market Street, City 1",35247.75,False
+T0045,IT Hardware,North Zone,IT Dept,201236.88,2025-02-01,,V902,Zenith Infra Works,42 Industrial Park Road,260679.55,False
+T0022,Road Construction,North Zone,IT Dept,417965.06,2025-07-09,2025-07-29,V012,Union Traders,"111 Market Street, City 3",376587.6,True
+T0043,IT Hardware,South Zone,Municipal Corp,211622.4,2026-01-14,,V012,Union Traders,"111 Market Street, City 3",241341.68,False
+T0003,IT Hardware,North Zone,Sanitation Board,176561.88,2025-01-19,,V006,Crest Logistics,"105 Market Street, City 1",189966.94,False
+T0004,Medical Equipment,North Zone,Health Dept,110590.18,2025-01-28,2025-02-18,V009,Cedar Point Inc,"108 Market Street, City 0",105485.74,True
+T0010,Medical Equipment,East Zone,Municipal Corp,135951.57,2025-03-23,2025-04-04,V002,Metro Constructions,"101 Market Street, City 1",115881.45,True
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,,V001,Alpine Builders,"100 Market Street, City 0",446830.91,False
+T0024,Office Supplies,South Zone,Health Dept,29656.49,2025-07-27,,V001,Alpine Builders,"100 Market Street, City 0",30193.39,False
+T0005,Sanitation Services,West Zone,Municipal Corp,133897.73,2025-02-06,,V012,Union Traders,"111 Market Street, City 3",157890.52,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,2025-09-17,V018,Granite Infra,"117 Market Street, City 1",82801.89,True
+T0035,IT Hardware,North Zone,Municipal Corp,218650.54,2025-11-03,,V006,Crest Logistics,"105 Market Street, City 1",214283.36,False
+T0044,Sanitation Services,South Zone,Municipal Corp,124817.45,2026-01-23,,V011,Silverline Corp,"110 Market Street, City 2",118707.39,False
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,,V017,Vertex Solutions,"116 Market Street, City 0",247836.68,False
+T0043,IT Hardware,South Zone,Municipal Corp,211622.4,2026-01-14,,V009,Cedar Point Inc,"108 Market Street, City 0",218692.92,False
+T0053,IT Hardware,North Zone,IT Dept,212884.63,2025-05-24,2025-05-27,V903,Prime Infra Traders,42 Industrial Park Road,273867.72,True
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,,V003,Horizon Traders,"102 Market Street, City 2",41715.67,False
+T0058,Specialized Medical Devices,South Zone,Health Dept,300107.03,2025-05-20,,V802,BioCore Instruments,77 Innovation Lane,298662.31,False
+T0007,Medical Equipment,North Zone,Public Works Dept,100519.25,2025-02-24,,V007,Falcon Works,"106 Market Street, City 2",115714.46,False
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,,V016,Coastal Supplies,"115 Market Street, City 3",455671.55,False
+T0008,Office Supplies,South Zone,Health Dept,44430.29,2025-03-05,,V006,Crest Logistics,"105 Market Street, City 1",51388.18,False
+T0061,Specialized Medical Devices,East Zone,Health Dept,333065.25,2025-07-19,2025-07-30,V801,MedTech Precision Devices,9 Science Park Drive,309598.16,True
+T0045,IT Hardware,North Zone,IT Dept,201236.88,2025-02-01,,V903,Prime Infra Traders,42 Industrial Park Road,262625.92,False
+T0030,Medical Equipment,West Zone,Municipal Corp,241674.43,2025-09-19,,V014,Delta Hardware,"113 Market Street, City 1",225297.47,False
+T0051,IT Hardware,North Zone,IT Dept,214738.45,2025-04-26,,V902,Zenith Infra Works,42 Industrial Park Road,280511.47,False
+T0025,Sanitation Services,East Zone,Public Works Dept,83825.72,2025-08-05,2025-08-21,V018,Granite Infra,"117 Market Street, City 1",79928.96,True
+T0060,Specialized Medical Devices,South Zone,Health Dept,331513.12,2025-06-29,2025-07-12,V801,MedTech Precision Devices,9 Science Park Drive,327542.33,True
+T0032,Sanitation Services,West Zone,Health Dept,156581.37,2025-10-07,,V014,Delta Hardware,"113 Market Street, City 1",169964.35,False
+T0020,IT Hardware,East Zone,Sanitation Board,153086.07,2025-06-21,,V007,Falcon Works,"106 Market Street, City 2",157993.18,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,,V013,Pioneer Infra,"112 Market Street, City 0",86603.65,False
+T0059,Specialized Medical Devices,East Zone,Health Dept,311524.2,2025-06-09,2025-06-23,V802,BioCore Instruments,77 Innovation Lane,309232.94,True
+T0030,Medical Equipment,West Zone,Municipal Corp,241674.43,2025-09-19,,V005,Bluewave Systems,"104 Market Street, City 0",219450.68,False
+T0053,IT Hardware,North Zone,IT Dept,212884.63,2025-05-24,,V902,Zenith Infra Works,42 Industrial Park Road,277050.19,False
+T0013,Medical Equipment,East Zone,Public Works Dept,167501.06,2025-04-19,,V003,Horizon Traders,"102 Market Street, City 2",187039.62,False
+T0044,Sanitation Services,South Zone,Municipal Corp,124817.45,2026-01-23,2026-01-30,V018,Granite Infra,"117 Market Street, City 1",109927.68,True
+T0008,Office Supplies,South Zone,Health Dept,44430.29,2025-03-05,,V001,Alpine Builders,"100 Market Street, City 0",49959.62,False
+T0003,IT Hardware,North Zone,Sanitation Board,176561.88,2025-01-19,,V018,Granite Infra,"117 Market Street, City 1",187367.45,False
+T0058,Specialized Medical Devices,North Zone,Health Dept,300107.03,2025-05-20,2025-06-06,V801,MedTech Precision Devices,9 Science Park Drive,309200.09,True
+T0015,IT Hardware,West Zone,Health Dept,201501.6,2025-05-07,,V002,Metro Constructions,"101 Market Street, City 1",210121.56,False
+T0019,Office Supplies,East Zone,Public Works Dept,47661.18,2025-06-12,,V009,Cedar Point Inc,"108 Market Street, City 0",44943.52,False
+T0053,IT Hardware,North Zone,IT Dept,212884.63,2025-05-24,,V901,Apex Infra Solutions,42 Industrial Park Road,273980.87,False
+T0019,Office Supplies,East Zone,Public Works Dept,47661.18,2025-06-12,2025-06-23,V004,Summit Supplies,"103 Market Street, City 3",43824.83,True
+T0031,Medical Equipment,North Zone,Municipal Corp,242628.15,2025-09-28,,V013,Pioneer Infra,"112 Market Street, City 0",278843.33,False
+T0024,Office Supplies,South Zone,Health Dept,29656.49,2025-07-27,,V004,Summit Supplies,"103 Market Street, City 3",28644.56,False
+T0029,Sanitation Services,North Zone,IT Dept,94735.4,2025-09-10,,V003,Horizon Traders,"102 Market Street, City 2",95379.12,False
+T0047,IT Hardware,North Zone,IT Dept,201434.56,2025-03-01,2025-03-04,V903,Prime Infra Traders,42 Industrial Park Road,266484.84,True
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,,V002,Metro Constructions,"101 Market Street, City 1",215467.68,False
+T0054,Specialized Medical Devices,West Zone,Health Dept,305967.9,2025-03-01,2025-03-15,V801,MedTech Precision Devices,9 Science Park Drive,285660.49,True
+T0017,Sanitation Services,East Zone,Health Dept,144550.08,2025-05-25,,V003,Horizon Traders,"102 Market Street, City 2",144728.49,False
+T0057,Specialized Medical Devices,South Zone,Health Dept,310585.85,2025-04-30,,V802,BioCore Instruments,77 Innovation Lane,294376.42,False
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,,V010,Northgate Equipments,"109 Market Street, City 1",459075.49,False
+T0018,Sanitation Services,North Zone,Public Works Dept,116952.71,2025-06-03,2025-06-12,V009,Cedar Point Inc,"108 Market Street, City 0",111085.27,True
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,,V010,Northgate Equipments,"109 Market Street, City 1",430232.78,False
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,2025-01-21,V017,Vertex Solutions,"116 Market Street, City 0",164676.37,True
+T0009,IT Hardware,North Zone,Public Works Dept,161558.89,2025-03-14,,V003,Horizon Traders,"102 Market Street, City 2",183838.33,False
+T0041,Road Construction,West Zone,Public Works Dept,406524.02,2025-12-27,,V007,Falcon Works,"106 Market Street, City 2",410408.03,False
+T0040,Road Construction,East Zone,Sanitation Board,448456.4,2025-12-18,2025-12-26,V012,Union Traders,"111 Market Street, City 3",431686.95,True
+T0049,IT Hardware,North Zone,IT Dept,187764.7,2025-03-29,,V903,Prime Infra Traders,42 Industrial Park Road,241615.94,False
+T0008,Office Supplies,South Zone,Health Dept,44430.29,2025-03-05,,V017,Vertex Solutions,"116 Market Street, City 0",50649.56,False
+T0038,IT Hardware,North Zone,Public Works Dept,158835.47,2025-11-30,,V004,Summit Supplies,"103 Market Street, City 3",148441.34,False
+T0038,IT Hardware,North Zone,Public Works Dept,158835.47,2025-11-30,2025-12-17,V007,Falcon Works,"106 Market Street, City 2",141005.95,True
+T0023,Office Supplies,South Zone,Health Dept,53495.36,2025-07-18,2025-08-05,V013,Pioneer Infra,"112 Market Street, City 0",47379.32,True
+T0035,IT Hardware,North Zone,Municipal Corp,218650.54,2025-11-03,,V003,Horizon Traders,"102 Market Street, City 2",232230.35,False
+T0036,Medical Equipment,South Zone,Municipal Corp,133865.65,2025-11-12,,V009,Cedar Point Inc,"108 Market Street, City 0",152644.48,False
+T0030,Medical Equipment,West Zone,Municipal Corp,241674.43,2025-09-19,,V001,Alpine Builders,"100 Market Street, City 0",281823.51,False
+T0012,IT Hardware,West Zone,Health Dept,174800.83,2025-04-10,2025-04-23,V011,Silverline Corp,"110 Market Street, City 2",154257.87,True
+T0015,IT Hardware,West Zone,Health Dept,201501.6,2025-05-07,,V010,Northgate Equipments,"109 Market Street, City 1",221013.39,False
+T0038,IT Hardware,North Zone,Public Works Dept,158835.47,2025-11-30,,V005,Bluewave Systems,"104 Market Street, City 0",159385.23,False
+T0010,Medical Equipment,East Zone,Municipal Corp,135951.57,2025-03-23,,V015,Evergreen Services,"114 Market Street, City 2",116502.52,False
+T0037,IT Hardware,West Zone,IT Dept,219993.55,2025-11-21,,V002,Metro Constructions,"101 Market Street, City 1",256491.41,False
+T0005,Sanitation Services,West Zone,Municipal Corp,133897.73,2025-02-06,,V018,Granite Infra,"117 Market Street, City 1",131461.08,False
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,,V014,Delta Hardware,"113 Market Street, City 1",208471.58,False
+T0012,IT Hardware,West Zone,Health Dept,174800.83,2025-04-10,,V002,Metro Constructions,"101 Market Street, City 1",205351.56,False
+T0016,Office Supplies,South Zone,Public Works Dept,40188.78,2025-05-16,2025-06-06,V018,Granite Infra,"117 Market Street, City 1",34687.53,True
+T0001,IT Hardware,East Zone,IT Dept,188642.84,2025-01-01,,V009,Cedar Point Inc,"108 Market Street, City 0",199480.59,False
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,,V016,Coastal Supplies,"115 Market Street, City 3",64566.59,False
+T0027,Road Construction,East Zone,Public Works Dept,459162.52,2025-08-23,,V007,Falcon Works,"106 Market Street, City 2",527084.52,False
+T0026,IT Hardware,North Zone,Municipal Corp,214790.26,2025-08-14,2025-08-29,V012,Union Traders,"111 Market Street, City 3",196537.73,True
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,,V007,Falcon Works,"106 Market Street, City 2",62285.45,False
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,,V013,Pioneer Infra,"112 Market Street, City 0",296574.78,False
+T0047,IT Hardware,North Zone,IT Dept,201434.56,2025-03-01,,V902,Zenith Infra Works,42 Industrial Park Road,265057.02,False
+T0033,IT Hardware,North Zone,Health Dept,164976.7,2025-10-16,,V013,Pioneer Infra,"112 Market Street, City 0",169771.2,False
+T0028,Road Construction,East Zone,Municipal Corp,431998.47,2025-09-01,,V001,Alpine Builders,"100 Market Street, City 0",433487.18,False
+T0044,Sanitation Services,South Zone,Municipal Corp,124817.45,2026-01-23,,V008,Riverbend Contractors,"107 Market Street, City 3",115222.34,False
+T0009,IT Hardware,North Zone,Public Works Dept,161558.89,2025-03-14,,V008,Riverbend Contractors,"107 Market Street, City 3",176240.91,False
+T0015,IT Hardware,West Zone,Health Dept,201501.6,2025-05-07,,V018,Granite Infra,"117 Market Street, City 1",204713.66,False
+T0006,Road Construction,North Zone,Public Works Dept,428922.71,2025-02-15,2025-02-28,V005,Bluewave Systems,"104 Market Street, City 0",418600.41,True
+T0036,Medical Equipment,South Zone,Municipal Corp,133865.65,2025-11-12,,V006,Crest Logistics,"105 Market Street, City 1",155805.87,False
+T0021,Office Supplies,North Zone,Public Works Dept,49125.48,2025-06-30,2025-07-09,V002,Metro Constructions,"101 Market Street, City 1",42434.76,True
+T0042,IT Hardware,East Zone,IT Dept,202533.34,2026-01-05,2026-01-21,V015,Evergreen Services,"114 Market Street, City 2",174071.53,True
+T0014,Road Construction,North Zone,Public Works Dept,314124.19,2025-04-28,,V016,Coastal Supplies,"115 Market Street, City 3",348392.84,False
+T0006,Road Construction,North Zone,Public Works Dept,428922.71,2025-02-15,,V014,Delta Hardware,"113 Market Street, City 1",439477.53,False
+T0039,Road Construction,East Zone,Health Dept,422739.02,2025-12-09,2025-12-30,V002,Metro Constructions,"101 Market Street, City 1",369929.97,True
+T0034,Office Supplies,West Zone,Municipal Corp,62672.4,2025-10-25,2025-11-14,V005,Bluewave Systems,"104 Market Street, City 0",57809.59,True
