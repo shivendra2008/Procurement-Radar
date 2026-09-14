@@ -21,16 +21,23 @@ pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
 ```
 
-**Frontend** (React + Vite, dashboard/alerts/graph views):
+**Frontend** (plain HTML/CSS/JS — no build step, no npm, no framework):
+
+Just open `frontend/index.html` directly in a browser (double-click it, or
+`open frontend/index.html` on macOS). It talks to the backend at
+`http://localhost:8000` via `fetch`, which works fine from a `file://` page
+since the backend's CORS is wide open for local dev.
+
+If you'd rather serve it over HTTP (e.g. to test on another device on your
+network), any static file server works, e.g.:
 
 ```bash
 cd frontend
-npm install
-npm run dev
+python3 -m http.server 5500
 ```
 
-Then open http://localhost:5173. Click **"Load synthetic demo dataset"** on
-first run — it generates a seeded dataset with:
+then open http://localhost:5500. Either way, click **"Load synthetic demo
+dataset"** on first run — it generates a seeded dataset with:
 
 - A **collusion ring** (3 vendors sharing one registered address, rotating
   wins, tightly clustered bids, ~30% price inflation) → correctly flagged
@@ -67,6 +74,17 @@ bid_amount, is_winner`.
   statement — the system never declares anyone corrupt.
 - **Relationship graph** (NetworkX → Cytoscape.js) visualizing vendor
   clusters and shared-address ties.
+
+## Frontend stack
+
+Plain HTML/CSS/JS — `index.html`, `style.css`, `api.js`, `tiers.js`,
+`app.js`. No React, no build step, no `node_modules`. Cytoscape.js is loaded
+from a CDN (`<script>` tag in `index.html`) for the relationship graph; the
+tier-distribution bar chart on the Dashboard is plain CSS, no charting
+library. State lives in a single `state` object in `app.js`; views are
+plain functions that re-render DOM via `innerHTML` (with an `escapeHtml()`
+helper on every interpolated value, since uploaded CSV content — vendor
+names, addresses, evidence text — is untrusted and rendered in the browser).
 
 ## What's simplified for the prototype
 

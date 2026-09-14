@@ -1,13 +1,136 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Procurement Intelligence & Investigation Radar</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Procurement Intelligence & Investigation Radar</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/cytoscape@3.30.2/dist/cytoscape.min.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">&#9670;</div>
+        <div>
+          <div class="brand-title">Procurement Radar</div>
+          <div class="brand-sub">Investigation Priority Engine</div>
+        </div>
+      </div>
+
+      <nav class="tabs">
+        <button class="tab-btn tab-btn-active" data-tab="dashboard">Dashboard</button>
+        <button class="tab-btn" data-tab="alerts" disabled>Alerts</button>
+        <button class="tab-btn" data-tab="graph" disabled>Relationship Graph</button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div id="source-line" class="source-line" hidden></div>
+        <button id="reset-btn" class="btn btn-ghost" hidden>Reset dataset</button>
+        <div class="disclaimer">
+          Alerts are investigation leads, not accusations. Every score is
+          evidence-backed and explainable — never a black box.
+        </div>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <div id="toast" class="toast" hidden></div>
+
+      <!-- ===================== Dashboard ===================== -->
+      <section id="view-dashboard" class="page">
+        <h1>Investigation Dashboard</h1>
+        <p class="page-sub">
+          Upload procurement records (tenders · bids · vendors · awards) to run the
+          Investigation Engine, or load the synthetic demo dataset which includes a
+          seeded collusion ring and a legitimate thin-market vendor for comparison.
+        </p>
+
+        <div id="dashboard-empty">
+          <div id="upload-panel-dashboard"></div>
+        </div>
+
+        <div id="dashboard-loaded" hidden>
+          <div class="stats-section">
+            <div class="stats-cards" id="stats-cards"></div>
+            <div class="stats-chart">
+              <div id="tier-bars" class="tier-bars"></div>
+            </div>
+          </div>
+          <div class="dashboard-columns">
+            <div class="dashboard-col">
+              <div class="section-title">Top Priority Cases</div>
+              <div id="top-cases" class="alerts-list"></div>
+            </div>
+            <div class="dashboard-col">
+              <div class="section-title">Load different data</div>
+              <div id="upload-panel-loaded"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================== Alerts ===================== -->
+      <section id="view-alerts" class="page page-split" hidden>
+        <div class="page-split-left">
+          <h1>Case Queue</h1>
+          <p class="page-sub">Ranked by Investigation Priority Score, tiered for triage.</p>
+          <div id="alerts-list-full" class="alerts-list"></div>
+        </div>
+        <div class="page-split-right">
+          <div id="alert-detail-alerts"></div>
+        </div>
+      </section>
+
+      <!-- ===================== Relationship Graph ===================== -->
+      <section id="view-graph" class="page page-graph" hidden>
+        <h1>Vendor Relationship Graph</h1>
+        <p class="page-sub">
+          Node size/color reflect Investigation Priority Score. Red edges mark vendors
+          sharing a registered address. A shared address alone is never scored — it only
+          contributes when paired with a behavioral signal (e.g. alternating wins).
+        </p>
+        <div class="graph-body">
+          <div class="graph-main">
+            <div class="graph-wrapper">
+              <div class="graph-legend">
+                <span><i class="dot" style="background:#e63965"></i> Immediate Review</span>
+                <span><i class="dot" style="background:#e0a12e"></i> Scheduled Review</span>
+                <span><i class="dot" style="background:#4c8bf5"></i> Monitor</span>
+                <span class="legend-sep"></span>
+                <span><i class="line" style="background:#e63965"></i> Shared address</span>
+              </div>
+              <div id="graph-canvas" class="graph-canvas"></div>
+            </div>
+          </div>
+          <div class="graph-side">
+            <div id="alert-detail-graph"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Reusable templates (cloned by app.js, never edited in place) -->
+  <template id="tpl-upload-panel">
+    <div class="upload-panel">
+      <div class="dropzone">
+        <input type="file" accept=".csv,.xlsx,.xls" hidden />
+        <div class="dropzone-icon">&#8679;</div>
+        <div class="dropzone-title">Drop a CSV / Excel procurement file, or click to browse</div>
+        <div class="dropzone-sub">
+          Columns required: tender_id, category, region, agency, estimated_value,
+          bid_deadline, award_date, vendor_id, vendor_name, vendor_address, bid_amount, is_winner
+        </div>
+      </div>
+      <div class="upload-or"><span>or</span></div>
+      <button class="btn btn-secondary sample-btn">Load synthetic demo dataset</button>
+      <div class="error-box" hidden></div>
+    </div>
+  </template>
+
+  <script src="tiers.js"></script>
+  <script src="api.js"></script>
+  <script src="app.js"></script>
+</body>
 </html>
